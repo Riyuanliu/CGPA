@@ -38,6 +38,12 @@ public:
 
         return totalGradePoints / totalCredits;
     }
+    void printallsemester(){
+        std::cout<<getName()<<std::endl;
+        for(int i =0;i<courses.size();i++){
+            courses[i].printallassignment();
+        }
+    }
 
 private:
     std::string name;
