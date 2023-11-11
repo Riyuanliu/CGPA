@@ -80,7 +80,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Author
 
-- [Your Name](https://github.com/yourusername)
+- [Riyuanliu](https://github.com/Riyuanliu)
 
 ## Acknowledgments
 
